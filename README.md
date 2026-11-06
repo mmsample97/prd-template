@@ -1,3 +1,14 @@
+> Free version, here on GitHub: Check only. It tells you what is wrong, you fix it yourself.
+>
+> Paid version, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
+>
+> Get the paid version here:
+>
+> - Paid version on Agensi, $15, coming soon, link will be added when Agensi approves it.
+> - Paid version on PromptBase, $14.99, coming soon, link will be added when PromptBase approves it.
+
+---
+
 # Turn Your App Idea Into a Build Ready Plan, in Plain Words
 
 **Upload your idea. Answer a few questions. Get a full PRD to build your app.**
