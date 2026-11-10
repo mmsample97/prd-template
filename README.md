@@ -4,8 +4,8 @@
 >
 > Get the paid version here:
 >
-> - Paid version on Agensi, $15: https://www.agensi.io/skills/prd-template
-> - Paid version on PromptBase, $14.99: https://promptbase.com/skill/prdtemplate
+> - Paid version on Agensi, $10: https://www.agensi.io/skills/prd-template
+> - Paid version on PromptBase, $9.99: https://promptbase.com/skill/prdtemplate
 
 ---
 
